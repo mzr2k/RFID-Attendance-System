@@ -1,0 +1,7 @@
+https://www.instructables.com/MFRC522-RFID-Reader-Interfaced-With-NodeMCU/
+
+https://how2electronics.com/iot-rfid-attendance-system-arduino-esp8266/
+
+https://io.adafruit.com/mariumzafar2000/feeds/attendance
+
+https://www.digikey.com/en/maker/blogs/2019/how-to-use-adafruit-io-with-an-esp8266-and-the-arduino-ide
